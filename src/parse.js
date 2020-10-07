@@ -1,5 +1,5 @@
 const fs = require('fs');
-const dataFile = require('./data/2018/marathon.json');
+const dataFile = require('../dist/2018/marathon.json');
 
 function parseSeconds(timeString) {
   if (timeString === null) return '';
@@ -94,6 +94,6 @@ function customFormatData(oldData) {
 }
 
 fs.writeFileSync(
-  './data/2018/marathon.json',
+  './dist/2018/marathon.json',
   JSON.stringify(customFormatData(dataFile))
 );
