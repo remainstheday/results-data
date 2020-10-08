@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Memphis Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "memphis",
+    "state": "tn",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": ""
+  },
+  {
+    "name": "Dallas Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "dallas",
+    "state": "tx",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "http://dallas.mychiptime.com/searchevent.php?id=11971"
+  },
+  {
+    "name": "Chicago Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "chicago",
+    "state": "il",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": ""
+  },
+  {
+    "name": "Boston Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "boston",
+    "state": "ma",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.baa.org/races/boston-marathon/results/search-results"
+  },
+  {
+    "name": "NYC Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "nyc",
+    "state": "ny",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://results.nyrr.org/event/M2017/finishers"
+  },
+  {
+    "name": "Honolulu Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "honolulu",
+    "state": "hi",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.honolulumarathon.org/2018-results"
+  },
+  {
+    "name": "Los Angeles Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "los angeles",
+    "state": "ca",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.trackshackresults.com/lamarathon/results/2018/mar_results.php?Link=14&Type=2&Div=D&Ind=0"
+  },
+  {
+    "name": "Marine Corps Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "arlington",
+    "state": "va",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://events.hakuapp.com/events/1405901239e66d083c42/live_tracking#results"
+  },
+  {
+    "name": "Walt Disney Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "orlando",
+    "state": "fl",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.trackshackresults.com/disneysports/results/wdw/wdw18/mar_results.php"
+  },
+  {
+    "name": "Philadelphia Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "philadelphia",
+    "state": "pa",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "http://live.xacte.com/templates/philadelphiamarathon.com/for-runners/"
+  },
+  {
+    "name": "Medtronic Twin Cities Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "twin cities",
+    "state": "mn",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.mtecresults.com/race/show/8111/2019_Medtronic_Twin_Cities_Marathon-Marathon"
+  },
+  {
+    "name": "Chevron Houston Marathon",
+    "event_types": ["marathon", "half-marathon", "tenk-run", "fivek-run"],
+    "city": "houston",
+    "state": "tx",
+    "years": [2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    "url": "https://www.chevronhoustonmarathon.com/participants/results/"
+  }
+]
